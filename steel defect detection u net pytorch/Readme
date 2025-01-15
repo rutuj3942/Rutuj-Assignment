@@ -1,0 +1,17 @@
+Steel Defect Detection with U-Net (PyTorch) (Accuracy: 91%)
+
+Overview
+
+A U-Net model implemented in PyTorch was used for segmenting steel surface defects, achieving an accuracy of 91%.
+
+Model Architecture
+
+U-Net: Encoder-decoder architecture with skip connections for detailed segmentation
+
+Data Preprocessing
+
+Images normalized and augmented for better generalization
+
+Evaluation
+
+Test accuracy: 91%
