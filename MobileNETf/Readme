@@ -1,0 +1,21 @@
+MobileNet Model (Accuracy: 98.15%)
+
+Overview
+
+The MobileNet model, known for its efficiency and reduced computational cost, achieves an accuracy of 98.15% on the NEU Metal Surface Defects dataset.
+
+Model Architecture
+
+MobileNet Backbone: Pre-trained MobileNet model
+
+Custom Top Layers: Flatten, Dense, Dropout, and Softmax layers for classification
+
+Data Preprocessing
+
+Standard MobileNet preprocessing
+
+Train-validation split: 80%-20%
+
+Evaluation
+
+Test accuracy: 98.15%
