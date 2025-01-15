@@ -1,0 +1,21 @@
+ResNet Model (Accuracy: 51%)
+
+Overview
+
+A ResNet model was implemented for defect detection but yielded a lower accuracy of 51%, indicating potential issues with overfitting or insufficient training data.
+
+Model Architecture
+
+ResNet Backbone: Pre-trained ResNet model
+
+Custom Top Layers: Flatten, Dense, Dropout, and Softmax layers for classification
+
+Data Preprocessing
+
+ResNet-specific preprocessing steps
+
+Train-validation split: 80%-20%
+
+Evaluation
+
+Test accuracy: 51%
