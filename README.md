@@ -43,18 +43,6 @@ Balances accuracy and speed effectively
 Usage
 Installation:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/repo-name.git
-Install required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Running Models:
-
-Follow the instructions in the respective model's directory to train or test the model.
-Data:
 
 Ensure the NEU Metal Surface Defects Data dataset is downloaded and placed in the appropriate directory as specified in each model's instructions.
 Results and Discussion
