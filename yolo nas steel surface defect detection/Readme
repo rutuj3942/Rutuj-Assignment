@@ -1,0 +1,17 @@
+YOLO-NAS Steel Surface Defect Detection (Accuracy: 83%)
+
+Overview
+
+YOLO-NAS model was employed for real-time detection of steel surface defects, achieving an accuracy of 83%.
+
+Model Architecture
+
+YOLO-NAS: Custom object detection model fine-tuned for defect detection
+
+Data Preprocessing
+
+Standard YOLO preprocessing steps, including normalization and augmentation
+
+Evaluation
+
+Test accuracy: 83%
